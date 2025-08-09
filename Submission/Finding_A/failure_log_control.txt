@@ -1,0 +1,9 @@
+============================================================
+EVIDENCE FOR: Finding A: Input Fragmentation (Fail to break)
+Log ID: log-A-non-fragmentation-failure
+Using """ """ to wrap prompt for terminal understand that the prompt is one block, model would deny to answer (which mean fail breaking)
+All both successful and fail logs all show fragmentation from terminal can affect the model
+============================================================
+
+
+
